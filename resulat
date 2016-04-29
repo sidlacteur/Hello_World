@@ -1,0 +1,753 @@
+Thread started:::Thread-1With ID :9
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread ended:::With ID :9
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+Thread ended:::With ID :9
+status of Thread-2 this.nomThread T3 = true
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+Thread ended:::With ID :10
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+Thread ended:::With ID :9
+status of Thread-0 this.nomThread T1 = true
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  gThread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+etpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_IThread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+status of Thread-2 this.nomThread T3 = true
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+Thread ended:::With ID :8
+Thread started:::Thread-0With ID :8
+status of Thread-0 this.nomThread T1 = true
+Thread ended:::With ID :10
+Thread started:::Thread-2With ID :10
+Thread ended:::With ID :9
+Thread started:::Thread-1With ID :9
+status of Thread-1 this.nomThread T2 = true
+status of Thread-2 this.nomThread T3 = true
+D ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582432990976 
+ t_id:5484
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582431938304 
+ t_id:5485
+
+************* GET_THREAD_ID ***********************
+
+getpid: 5472 
+  getpthread_self: 140582430885632 
+ t_id:5486

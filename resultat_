@@ -1,0 +1,50 @@
+ThreadID >>> Changing 
+Until JNI 
+1034188544#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb)
+ at pc=0x00007fbe4b1d1b8e, pid=30560, tid=140455285012224
+#
+# JRE version: Java(TM) SE Runtime Environment (7.0_80-b15) (build 1.7.0_80-b15)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (24.80-b11 mixed mode linux-amd64 compressed oops)
+# Problematic frame:
+# C  [libpthread.so.0+0x9b8e]  pthread_setschedprio+0xe
+#
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# An error report file with more information is saved as:
+# /home/emeraude/Bureau/JNI2504/ChangeThread/Change/Thread2804/hs_err_pid30560.log
+Until JNI 
+1033135872
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+************* GET_THREAD_ID ***********************
+
+getpid: 30560 
+getpthread_self: 1034188544 
+t_id:30572
+
+************* GET_THREAD_ID ***********************
+
+************* GET_THREAD_ID ***********************
+depuis le C TIDUnsignedint() 1034188544 et TIDInt() est 140455054702336
+************* GET_THREAD_ID ***********************
+
+************* GET_THREAD_ID ***********************
+depuis le C TIDUnsignedint() 1264498432 et TIDInt() est 140455285012224Je suis la 1264498432 et 1264498432
+************* GET_THREAD_ID ***********************
+
+getpid: 30560 
+getpthread_self: 1033135872 
+t_id:30573
+
+************* GET_THREAD_ID ***********************
+
+************* GET_THREAD_ID ***********************
+depuis le C TIDUnsignedint() 1033135872 et TIDInt() est 140455053649664

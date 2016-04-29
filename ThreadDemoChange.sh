@@ -1,0 +1,23 @@
+#!/bin/bash
+#echo 'Debut de la Compilation du thread Java'
+#javac ThreadDemoChange.java
+#echo 'Fin de la Compilation du thread Java'
+
+#javac ThreadDemoChange
+
+#echo 'Debut de la Compilation du .c'
+
+sudo cc -fPIC -o  libThreadDemoChange.so -shared -I/usr/jdk/include -I/usr/jdk/include/linux ThreadDemoChange.c -pthread
+
+#echo 'Fin de la Compilation du .c'
+
+#echo 'Ajout du PATH'
+
+export LD_LIBRARY_PATH='/home/emeraude/Bureau/JNI2504/ChangeThread/Change/Thread2804/'
+
+#echo 'Ajout avec Succes'
+
+
+#echo 'Execution Du main'
+
+java ThreadDemoChange
